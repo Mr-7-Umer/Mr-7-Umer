@@ -13,7 +13,7 @@
 
 ## What I'm Currently Learning
 
-🔘Cloud Native Generative AI Engineering
+🔘Cloud Native Generative AI Engineering  
 🔘Next.js: Building modern web applications
  
 
